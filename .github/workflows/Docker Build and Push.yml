@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: user/app:latest
+          tags: robertteah/python-helloworld:latest
